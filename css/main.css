@@ -16,9 +16,29 @@ body {
      padding: 20px;
 }
 
+project{
+	margin-left: 20px;
+}
+
 .jumbotron-container {
 	position: relative;
      margin-top: 50px;
      margin-bottom: 20px;
      padding: 20px;
+}
+
+p {
+ font-family: Comic Sans;
+ font-size: 20px;
+ margin-left: 20px;
+}
+
+li {
+ font-family: Comic Sans;
+ font-size: 20px;
+}
+
+h1 {
+ font-family: Comic Sans;
+ font-size: 40px;
 }
