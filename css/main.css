@@ -21,6 +21,10 @@ project{
 	margin-left: 20px;
 }
 
+.project-text{
+		margin-left: 40px;
+}
+
 .jumbotron-container {
 	position: relative;
      margin-top: 50px;
